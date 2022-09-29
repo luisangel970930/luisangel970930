@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisangel970930&label=Profile%20views&color=0e75b6&style=flat" alt="luisangel970930" /> </p>
 
-- 💬 Ask me about **React , Vue, Node and Spring Boot**
-
 - 📫 How to reach me **luisangel970930@gmail.com**
 
 - 📄 Know about my experiences [https://luisangelperfil.herokuapp.com/](https://luisangelperfil.herokuapp.com/)
